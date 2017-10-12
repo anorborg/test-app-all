@@ -1,0 +1,6 @@
+[submodule "test-common"]
+	path = test-common
+	url = http://github.com/anorborg/test-common.git
+[submodule "test-identity"]
+	path = test-identity
+	url = http://github.com/anorborg/test-identity.git
